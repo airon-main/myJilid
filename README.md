@@ -1,6 +1,6 @@
-# my_flutter
+# my_Jilid
 
-A new Flutter project.
+A new Jilid reading app made in flutter.
 
 ## Getting Started
 
