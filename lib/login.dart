@@ -2,6 +2,7 @@ import "package:flutter/material.dart";
 import 'package:flutter_svg_provider/flutter_svg_provider.dart';
 import 'package:gap/gap.dart';
 import 'package:my_flutter/colorpallette.dart';
+import 'package:my_flutter/home.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
